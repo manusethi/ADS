@@ -1,0 +1,22 @@
+manu@SuperManu:~/Dropbox/ADSProject_Fall2012$ g++ -o btreetests BTreeOptimalOrderTests.cpp
+manu@SuperManu:~/Dropbox/ADSProject_Fall2012$ ./btreetests 
+order = 3	btTimeInsert = 3680000
+order = 7	btTimeInsert = 2820000
+order = 11	btTimeInsert = 2720000
+order = 15	btTimeInsert = 2780000
+order = 17	btTimeInsert = 2880000
+order = 40	btTimeInsert = 4720000
+order = 100	btTimeInsert = 13820000
+manu@SuperManu:~/Dropbox/ADSProject_Fall2012$ g++ -o btreetests BTreeOptimalOrderTests.cpp
+manu@SuperManu:~/Dropbox/ADSProject_Fall2012$ ./btreetests 
+order = 7	btTimeInsert = 2840000
+order = 8	btTimeInsert = 2810000
+order = 9	btTimeInsert = 2770000
+order = 10	btTimeInsert = 2750000
+order = 11	btTimeInsert = 2730000
+order = 12	btTimeInsert = 2750000
+order = 13	btTimeInsert = 2740000
+order = 14	btTimeInsert = 2750000
+order = 15	btTimeInsert = 2750000
+manu@SuperManu:~/Dropbox/ADSProject_Fall2012$ 
+
